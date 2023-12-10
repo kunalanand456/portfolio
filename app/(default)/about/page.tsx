@@ -1,6 +1,5 @@
 export const metadata = {
-  title: 'About us - Open PRO',
-  description: 'Page description',
+  title: 'kunal - about me',
 }
 
 import Zigzag from '@/components/zigzag'
