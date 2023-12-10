@@ -15,6 +15,7 @@ export default function Work() {
   return (
     <>
       <Tabs/> 
+      <br/>
       <Process/>
       <CaseStudies/>
     </>
