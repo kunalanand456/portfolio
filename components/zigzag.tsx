@@ -28,7 +28,7 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <h3 className="h3 mb-3">Hey! 👋</h3> 
-                                    <p className="text-xl text-white-400 mb-4">I am currently a student at the University of Washington studying <span data-aos="fade-up" data-aos-delay="600" className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span data-aos="fade-up" data-aos-delay="600" className = 'font-bold text-white'>Data Science</span><span data-aos="fade-up" data-aos-delay="600">.</span></p>
+                                    <p className="text-xl text-white-400 mb-4">I am currently a student at the <span data-aos ='fade-up' data-aos-delay = '600' className = 'text-white font-bold'>University of Washington</span> studying <span data-aos="fade-up" data-aos-delay="600" className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span data-aos="fade-up" data-aos-delay="600" className = 'font-bold text-white'>Data Science</span><span data-aos="fade-up" data-aos-delay="600">.</span></p>
                   <p className="text-xl text-white-400 mb-4">In my free time I enjoy listening to music and watching movies with my friends.</p>
                 </div>
               </div>
