@@ -114,8 +114,8 @@ export default function Tabs() {
                           <p className="font-bold text-green-500">Android Development</p>
                         </li>
                       </ul>
-                      <a className="btn-sm text-white bg-red-600 hover:bg-red-400 mt-6" href="https://github.com/kunalanand456/shoppy-ios" target='_blank'>
-                        <span className="text-sm font-bold text-left">Check it out!</span>
+                      <a className="btn-sm text-white bg-red-600 rounded hover:bg-red-400 mt-6" href="https://github.com/kunalanand456/shoppy-ios" target='_blank'>
+                        <span className="text-sm font-bold text-left">CleverTap</span>
                       </a>
                     </div>
 
@@ -151,8 +151,8 @@ export default function Tabs() {
                           <p className="font-bold text-cyan-500">AI Development and Testing</p>
                         </li>
                       </ul>
-                      <a className="btn-sm text-white bg-orange-600 hover:bg-orange-400 mt-6" href="https://viddl.com/" target='_blank'>
-                        <span className="text-sm font-bold text-left">Check it out!</span>
+                      <a className="btn-sm text-white bg-orange-600 rounded hover:bg-orange-400 mt-6" href="https://viddl.com/" target='_blank'>
+                        <span className="text-sm font-bold text-left">viddl</span>
                       </a>
                     </div>
                   </article>
@@ -204,8 +204,8 @@ development. </p>
                           <p className="font-bold text-pink-500">Design</p>
                         </li>
                       </ul>
-                      <a className="btn-sm text-white bg-green-600 hover:bg-green-400 mt-6" href="https://www.goezz.net/" target='_blank'>
-                        <span className="text-sm font-bold text-left">Check it out!</span>
+                      <a className="btn-sm text-white bg-green-600 rounded hover:bg-green-400 mt-6" href="https://www.goezz.net/" target='_blank'>
+                        <span className="text-sm font-bold text-left">GoEzz</span>
                       </a>
                     </div>
                   </article>
@@ -248,8 +248,8 @@ new information entered into the database.</p>
                           <p className="font-bold text-red-500">Data Visualization</p>
                         </li>
                       </ul>
-                      <a className="btn-sm text-white bg-blue-600 hover:bg-blue-400 mt-6" href="https://www.dealpad.io/" target='_blank'>
-                        <span className="text-sm font-bold text-left">Check it out!</span>
+                      <a className="btn-sm text-white bg-blue-600 rounded hover:bg-blue-400 mt-6" href="https://www.dealpad.io/" target='_blank'>
+                        <span className="text-sm font-bold text-left">dealpad</span>
                       </a>
                     </div>
                   </article>
@@ -291,8 +291,8 @@ new information entered into the database.</p>
                           <p className="font-bold text-pink-500">Design</p>
                         </li>
                       </ul>
-                      <a className="btn-sm text-white bg-blue-400 hover:bg-blue-200 mt-6" href="https://www.m2is.com/" target='_blank'>
-                        <span className="text-sm font-bold text-left">Check it out!</span>
+                      <a className="btn-sm text-white bg-blue-400 rounded hover:bg-blue-200 mt-6" href="https://www.m2is.com/" target='_blank'>
+                        <span className="text-sm font-bold text-left">M2 Information Systems</span>
                       </a>
                     </div>
                   </article>
