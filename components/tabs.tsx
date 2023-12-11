@@ -63,7 +63,7 @@ export default function Tabs() {
                 className={`flex items-center font-bold py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 4 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(4)}
               >
-                <span className="text-orange-600 font-bold group-hover:text-orange-200 transition-colors duration-150 ease-in-out">Viddl</span>
+                <span className="text-orange-600 font-bold group-hover:text-orange-200 transition-colors duration-150 ease-in-out">viddl</span>
               </button>
               <button
                 className={`flex items-center font-bold py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 5 ? 'border-white' : 'opacity-100'}`}
