@@ -45,31 +45,31 @@ export default function Tabs() {
                 className={`flex items-center font-medium py-2 px-4 m-2 bg-black-800 group transition duration-500 border-b-2 border-transparent ${tab === 1 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(1)}
               >
-                <span className="text-blue-600 group-hover:text-blue-400 transition-colors duration-150 ease-in-out">dealpad</span>
+                <span className="text-blue-600 font-bold group-hover:text-blue-400 transition-colors duration-150 ease-in-out">dealpad</span>
               </button>
               <button
                 className={`flex items-center font-medium py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 2 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(2)}
               >
-                <span className="text-blue-400 group-hover:text-blue-200 transition-colors duration-150 ease-in-out">M2 Information Systems</span>
+                <span className="text-blue-400 font-bold group-hover:text-blue-200 transition-colors duration-150 ease-in-out">M2 Information Systems</span>
               </button>
               <button
                 className={`flex items-center font-medium py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 3 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(3)}
               >
-                <span className="text-green-400 group-hover:text-green-200 transition-colors duration-150 ease-in-out">GoEzz</span>
+                <span className="text-green-400 font-bold group-hover:text-green-200 transition-colors duration-150 ease-in-out">GoEzz</span>
               </button>
               <button
                 className={`flex items-center font-medium py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 4 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(4)}
               >
-                <span className="text-orange-600 group-hover:text-orange-200 transition-colors duration-150 ease-in-out">Viddl</span>
+                <span className="text-orange-600 font-bold group-hover:text-orange-200 transition-colors duration-150 ease-in-out">Viddl</span>
               </button>
               <button
                 className={`flex items-center font-medium py-2 px-4 m-2 bg-black-800  group transition duration-500 border-b-2 border-transparent ${tab === 5 ? 'border-white' : 'opacity-100'}`}
                 onClick={() => setTab(5)}
               >
-                <span className="text-red-600 group-hover:text-red-400 transition-colors duration-150 ease-in-out">CleverTap</span>
+                <span className="text-red-600 font-bold group-hover:text-red-400 transition-colors duration-150 ease-in-out">CleverTap</span>
               </button>
             </div>
 
