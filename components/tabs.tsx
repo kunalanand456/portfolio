@@ -224,8 +224,8 @@ development. </p>
                   beforeEnter={() => heightFix()}
                 >
                   <article className="relative max-w-md mx-auto md:max-w-none">
-                    <figure className="md:absolute md:inset-y-0 md:left-0 md:w-1/2">
-                      <Image className="w-full h-full object-cover" src={dealpad} width={516} height={387} alt="Tabs 02" />
+                    <figure className= "flex justify-center items-center  md:absolute md:inset-y-0 md:left-0 md:w-1/2">
+                      <Image  src={dealpad} width={300} height={400} alt="Tabs 02" />
                     </figure>
                     <div className="relative bg-black-800 py-8 md:py-16 px-6 md:pl-16 md:max-w-lg lg:max-w-xl md:ml-auto">
                     <h4 className="h4 mb-2">Data Science Engineer Intern</h4>
