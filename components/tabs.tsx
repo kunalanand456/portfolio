@@ -90,8 +90,8 @@ export default function Tabs() {
                   beforeEnter={() => heightFix()}
                 >
                   <article className="relative max-w-md mx-auto md:max-w-none">
-                    <figure className="md:absolute md:inset-y-0 md:right-0 md:w-1/2">
-                      <Image className="w-full h-full object-cover" src={CleverTap} width={516} height={387} alt="Tabs 01" />
+                    <figure className="flex justify-center items-center md:absolute md:inset-y-0 md:right-0 md:w-1/2">
+                      <Image src={CleverTap} width={200} height={200} alt="Tabs 01" />
                     </figure>
 
                     <div className="relative bg-black py-8 md:py-16 px-6 md:pr-16 md:max-w-lg lg:max-w-xl">
