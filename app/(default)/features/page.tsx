@@ -14,7 +14,6 @@ export default function Features() {
     <>
       <br/>
       <Zigzag />
-      <br/>
       <Blocks />
       
     
