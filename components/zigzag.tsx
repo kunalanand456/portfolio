@@ -28,7 +28,7 @@ export default function Zigzag() {
               {/* Content */}
               <div className="max-w-2xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-up">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <h2 className="h2 font-bold mb-2">Hello! 👋</h2> 
+                  <h2 className="h2 font-bold mb-2">Hi :)</h2> 
                   <p className="text-xl text-white-400 mb-4">I am currently a student at <span className = 'font-bold text-purple-100'> UW Seattle</span> studying <span className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span className = 'font-bold text-white'>Data Science</span><span>.</span></p>
                   <p className="text-xl text-white-400 mb-4">I am passionate about building products and innovation within the technical world.</p>
                   <p className="text-xl text-white-400 mb-4">In my free time, I enjoy listening to music, hanging out with friends and trying out new restaurants.</p>
