@@ -102,9 +102,9 @@ export default function Tabs() {
                     </figure>
 
                     <div className="relative bg-black py-8 md:py-16 px-6 md:pr-16 md:max-w-lg lg:max-w-xl">
-                      <h4 className="h4 mb-2">Software Engineer</h4>
+                      <h4 className="h4 mb-2">Software Engineer Intern</h4>
                       <p className="text-lg text-gray-400">LifePattern.AI provides an AI-driven platform for personal growth and health, merging journaling and goal-setting with smart insights to enhance individual well-being and life patterns.</p> <br />
-                      <p className="text-lg "> At <span className='font-bold'>LifePattern.AI</span>, I am the lead developer in a dynamic team of four, driving the development of a web-based journey creation tool, leveraging my expertise in NextJS, NestJS, and React Native to deliver a cross-platform user experience. </p>
+                      <p className="text-lg "> At <span className='font-bold'>LifePattern.AI</span>, I am interning as the lead developer in a dynamic team of four, driving the development of a web-based journey creation tool, leveraging my expertise in NextJS, NestJS, and React Native to deliver a cross-platform user experience. </p>
                       <br />
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
                         <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
