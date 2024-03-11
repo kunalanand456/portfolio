@@ -6,7 +6,7 @@ import '@/app/css/additional-styles/theme.css';
 
 export default function HeroHome() {
   useEffect(() => {
-    const words = ['Hello!'];
+    const words = ['Hello.'];
     let part;
     let offset = 0;
     const speed = 100;
