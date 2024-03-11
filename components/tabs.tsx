@@ -228,7 +228,7 @@ export default function Tabs() {
                       <Image  src={GoEzz} width={300} height={400} alt="Tabs 02" />
                     </figure>
                     <div className="relative bg-black-800 py-8 md:py-16 px-6 md:pl-16 md:max-w-lg lg:max-w-xl md:ml-auto">
-                      <h4 className="h4 mb-2">Software Engineer Intern</h4>
+                      <h4 className="h4 mb-2">Software Engineer</h4>
                       <p className="text-lg text-gray-400">GoEzz provides door-to-door ride transformation for children with accredited transportation providers</p><br />
                       <p className="text-lg"> At <span className='font-bold'>GoEzz</span>, I led the design and development of the primary website within a 5-member team, utilizing React and JavaScript for
 development. </p>
