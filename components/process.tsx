@@ -97,7 +97,7 @@ export default function Process() {
                 <rect className="fill-current text-white" x="26" y="56" width="12" height="4" />
                 <rect className="fill-current text-white" x="26" y="20" width="12" height="4" rx="1" />
               </svg>
-              <h4 className="h4 mb-2">Data Management</h4>
+              <h4 className="h4 mb-2">Data Programming</h4>
               <p className="text-lg text-gray-400 ">Familiar with:</p>
               <br />
               <ul className="flex flex-wrap justify-center text-lg text-gray-400 -mx-2 -my-1">
