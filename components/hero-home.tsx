@@ -53,7 +53,7 @@ return(
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={kunal} width={550} height={550} alt="Features 02"/>
               </div>
               {/* Content */}
-              <div className="max-w-2xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-up">
+              <div className="max-w-2xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="word text-5xl font-bold"></div>
                   <br/>
