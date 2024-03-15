@@ -38,8 +38,6 @@ module.exports = {
         '1/1': '100%',
       },
       fontFamily: {
-        inter: ['var(--font-inter)', 'sans-serif'],
-        'architects-daughter': ['var(--font-architects-daughter)', 'sans-serif'],
         futura: [
           'Futura PT Book',
           'Futura PT Light',

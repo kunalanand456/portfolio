@@ -39,8 +39,8 @@ export default function Header() {
                 <Dropdown title="">
                   {/* 2nd level: hover */}
                   <li>
-                    <Link href="/about" className="font-medium text-sm text-black-400 hover:text-gray-600 text-right flex py-2 px-4 leading-tight">
-                      About
+                    <Link href="/" className="font-medium text-sm text-black-400 hover:text-gray-600 text-right flex py-2 px-4 leading-tight">
+                      Home
                     </Link>
                   </li>
                   <li>
