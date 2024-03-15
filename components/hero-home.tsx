@@ -49,7 +49,7 @@ return(
             {/* 2nd item */}
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
-              <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl" data-aos="fade-up">
+              <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl">
                 <Image className="max-w-full mx-auto md:max-w-none h-auto" src={kunal} width={550} height={550} alt="Features 02"/>
               </div>
               {/* Content */}
@@ -57,8 +57,8 @@ return(
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <div className="word text-5xl font-bold"></div>
                   <br/>
-                  <p className="text-xl text-white-400 mb-4">I am currently a student at <span className = 'font-bold text-purple-100'> UW Seattle</span> studying <span className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span className = 'font-bold text-white'>Data Science</span><span>.</span></p>
-                  <p className="text-xl text-white-400 mb-4">I am passionate about building products and innovation within the technical world.</p>
+                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up">I am currently a student at <span className = 'font-bold text-purple-100'> UW Seattle</span> studying <span className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span className = 'font-bold text-white'>Data Science</span><span>.</span></p>
+                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up">I am passionate about building products and innovation within the technical world.</p>
                   <br/>
                   <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
             <div data-aos="fade-up" data-aos-delay="400">
