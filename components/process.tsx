@@ -82,9 +82,14 @@ export default function Process() {
                   <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="6" cy="6" r="3" />
                   </svg>
-                  <p className="text-sm text-white italic">Android</p>
+                  <p className="text-sm text-white italic">Android Development</p>
                 </li>
-                
+                <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="600" data-aos-anchor="[data-aos-id-cta]">
+                  <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="6" cy="6" r="3" />
+                  </svg>
+                  <p className="text-sm text-white italic">Objective-C</p>
+                </li>
 
               </ul>
             </div>
@@ -113,7 +118,12 @@ export default function Process() {
                   </svg>
                   <p className="text-sm text-white italic">Python</p>
                 </li>
-               
+                <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
+                  <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="6" cy="6" r="3" />
+                  </svg>
+                  <p className="text-sm text-white italic">R</p>
+                </li>
 
               </ul>
             </div>
