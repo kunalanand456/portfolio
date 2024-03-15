@@ -50,7 +50,7 @@ return(
             <div className="md:grid md:grid-cols-12 md:gap-6 items-center">
               {/* Image */}
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-5 lg:col-span-6 mb-8 md:mb-0 rtl">
-                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={kunal} width={550} height={550} alt="Features 02"/>
+                <Image className="max-w-full mx-auto md:max-w-none h-auto" src={kunal} width={550} height={550} alt="Features 02"  data-aos="fade-up"/>
               </div>
               {/* Content */}
               <div className="max-w-2xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6">
