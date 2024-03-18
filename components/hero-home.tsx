@@ -55,10 +55,10 @@ return(
               {/* Content */}
               <div className="max-w-2xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="word text-5xl font-bold"></div>
+                  <div className="word text-5xl font-bold" style={{ textAlign: 'center' }}></div>
                   <br/>
-                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up">I am currently a student at <span className = 'font-bold text-purple-100'> UW Seattle</span> studying <span className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span className = 'font-bold text-white'>Data Science</span><span>.</span></p>
-                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up">I am passionate about building products and innovation within the technical world.</p>
+                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up" style={{ textAlign: 'center' }}>I am currently a student at <span className = 'font-bold text-purple-100'> UW Seattle</span> studying <span className = 'font-bold text-white'>Human Centered Design Engineering</span> with a focus in <span className = 'font-bold text-white'>Data Science</span><span>.</span></p>
+                  <p className="text-xl text-white-400 mb-4" data-aos="fade-up" style={{ textAlign: 'center' }}>I am passionate about building products and innovation within the technical world.</p>
                   <br/>
                   <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
             <div data-aos="fade-up" data-aos-delay="400">
