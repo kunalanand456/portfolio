@@ -282,7 +282,7 @@ development. </p>
                     <h4 className="h4 mb-2">Data Engineer Intern</h4>
                       <p className="text-lg text-gray-400">dealpad.io is a Virtual Sales Room Platform that transforms sales leads into clients</p><br />
                       <p className="text-lg"> At <span className='font-bold'>dealpad</span>, I utilized advanced SQL queries to extract relevant data from the company database, aligning it with the defined customer success metrics.</p>
-                      <p>I also visualized and automated daily data updates using Microsoft Power BI, ensuring real-time insights and accommodating
+                      <p className="text-lg">I also visualized and automated daily data updates using Microsoft Power BI, ensuring real-time insights and accommodating
 new information entered into the database.</p>
                       <br></br>
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
