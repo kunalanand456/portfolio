@@ -43,11 +43,11 @@ export default function HeroHome() {
                     <br />
                     <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
                         <div data-aos="fade-up" data-aos-delay="400">
-                            <a className="btn-sm text-white text-lg font-bold bg-black-700 border-b border-black hover:border-b-white ml-3 w-full sm:w-auto sm:ml-4" href="/work">My Work</a>
+                            <a className="btn-sm text-white text-xl font-bold bg-black-700 border-b border-black hover:border-b-white ml-3 w-full sm:w-auto sm:ml-4" href="/work">My Work</a>
                         </div>
                         <br></br>
                         <div data-aos="fade-up" data-aos-delay="400">
-                            <a className="btn-sm text-white text-lg font-bold bg-black-700 border-b border-black hover:border-b-white ml-3 w-full sm:w-auto sm:ml-4" href="https://www.linkedin.com/in/kunal-a/" target = '_blank'>Connect</a>
+                            <a className="btn-sm text-white text-xl font-bold bg-black-700 border-b border-black hover:border-b-white ml-3 w-full sm:w-auto sm:ml-4" href="https://www.linkedin.com/in/kunal-a/" target = '_blank'>Connect</a>
                         </div>
                     </div>
                 </div>
