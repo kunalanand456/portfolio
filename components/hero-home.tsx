@@ -34,6 +34,7 @@ export default function HeroHome() {
                     <div className="max-w-2xl mx-auto text-center">
                         <div className="word text-7xl font-bold"></div>
                         <br />
+                        <br />
                        <p className="text-xl text-white-400 mb-8" data-aos="fade-up" data-aos-delay="200">
                             My name is <span className='font-bold text-2xl'>Kunal</span>, and I'm an aspiring engineer interested in the intersection of Software Engineering and Design.
                         </p>
