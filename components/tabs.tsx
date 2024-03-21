@@ -232,7 +232,7 @@ export default function Tabs() {
                       <p className="text-lg text-gray-400">GoEzz provides door-to-door ride transformation for children with accredited transportation providers</p><br />
                       <p className="text-lg"> At <span className='font-bold'>GoEzz</span>, I led the design and development of the primary website within a 5-member team, utilizing React and JavaScript for
 development. </p>
-<p>I also established a MySQL database system to ensure seamless data collection and management.</p>
+<p className="text-lg">I also established a MySQL database system to ensure seamless data collection and management.</p>
 
                       <br></br>
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
