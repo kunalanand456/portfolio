@@ -36,10 +36,8 @@ export default function HeroHome() {
                         <br />
                         <br />
                        <p className="text-xl text-white-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-                            My name is <span className='font-bold text-2xl'>Kunal</span>, and I'm an aspiring engineer interested in the intersection of Software Engineering and Design.
+                            My name is <span className='font-bold text-2xl'>Kunal</span>, and I am currently a student at <span className='font-bold text-purple-100'>UW Seattle</span>, interested in the intersection of <span className='font-bold text-white'>Software Engineering</span> and  <span className='font-bold text-white'>Design</span>.
                         </p>
-                        <p className="text-xl text-white-400 mb-4" data-aos="fade-up" style={{ textAlign: 'center' }}>I am currently a student at <span className='font-bold text-purple-100'>UW Seattle</span> studying <span className='font-bold text-white'> Human Centered Design Engineering</span>.</p>
-
                     </div>
                     <br />
                     <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
