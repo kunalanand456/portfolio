@@ -326,7 +326,7 @@ new information entered into the database.</p>
                     <h4 className="h4 mb-2">Software Engineer Intern</h4>
                       
                       <p className="text-lg text-gray-400">M2 Information Systems provides secure patient-doctor messaging and clinical alerting technology to the healthcare industry</p><br />
-                      <p className="text-lg"> At <span className='font-bold'>M2</span>, I helped with the transition of .ASPX web pages to modern, responsive web interfaces, enhancing user experience and accessibility. I personally designed and developed a personalized Patient Relative webpage, tailored to individual hospital requirements. </p>
+                      <p className="text-lg"> At <span className='font-bold'>M2</span>, I helped with the transition of ASPX web pages to modern, responsive web interfaces, enhancing user experience and accessibility. I personally designed and developed a personalized Patient Relative webpage, tailored to individual hospital requirements. </p>
                       <br />
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
                         <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
