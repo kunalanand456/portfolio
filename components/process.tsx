@@ -82,9 +82,14 @@ export default function Process() {
                   <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                     <circle cx="6" cy="6" r="3" />
                   </svg>
-                  <p className="text-sm text-white italic">Android</p>
+                  <p className="text-sm text-white italic">Android Development</p>
                 </li>
-                
+                <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="600" data-aos-anchor="[data-aos-id-cta]">
+                  <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="6" cy="6" r="3" />
+                  </svg>
+                  <p className="text-sm text-white italic">Objective-C</p>
+                </li>
 
               </ul>
             </div>
@@ -97,7 +102,7 @@ export default function Process() {
                 <rect className="fill-current text-white" x="26" y="56" width="12" height="4" />
                 <rect className="fill-current text-white" x="26" y="20" width="12" height="4" rx="1" />
               </svg>
-              <h4 className="h4 mb-2">Data Management</h4>
+              <h4 className="h4 mb-2">Data Programming</h4>
               <p className="text-lg text-gray-400 ">Familiar with:</p>
               <br />
               <ul className="flex flex-wrap justify-center text-lg text-gray-400 -mx-2 -my-1">
@@ -113,7 +118,12 @@ export default function Process() {
                   </svg>
                   <p className="text-sm text-white italic">Python</p>
                 </li>
-               
+                <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
+                  <svg className="w-3 h-3 fill-current text-white mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
+                    <circle cx="6" cy="6" r="3" />
+                  </svg>
+                  <p className="text-sm text-white italic">R</p>
+                </li>
 
               </ul>
             </div>

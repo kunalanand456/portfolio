@@ -102,9 +102,9 @@ export default function Tabs() {
                     </figure>
 
                     <div className="relative bg-black py-8 md:py-16 px-6 md:pr-16 md:max-w-lg lg:max-w-xl">
-                      <h4 className="h4 mb-2">Software Engineer</h4>
+                      <h4 className="h4 mb-2">Software Engineer Intern</h4>
                       <p className="text-lg text-gray-400">LifePattern.AI provides an AI-driven platform for personal growth and health, merging journaling and goal-setting with smart insights to enhance individual well-being and life patterns.</p> <br />
-                      <p className="text-lg "> At <span className='font-bold'>LifePattern.AI</span>, I am the lead developer in a dynamic team of four, driving the development of a web-based journey creation tool, leveraging my expertise in NextJS, NestJS, and React Native to deliver a cross-platform user experience. </p>
+                      <p className="text-lg "> At <span className='font-bold'>LifePattern.AI</span>, I am interning as the lead developer in a dynamic team of four, driving the development of a web-based journey creation tool, leveraging my expertise in NextJS, NestJS, and TypeScript to deliver a cross-platform user experience. </p>
                       <br />
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
                         <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
@@ -228,11 +228,11 @@ export default function Tabs() {
                       <Image  src={GoEzz} width={300} height={400} alt="Tabs 02" />
                     </figure>
                     <div className="relative bg-black-800 py-8 md:py-16 px-6 md:pl-16 md:max-w-lg lg:max-w-xl md:ml-auto">
-                      <h4 className="h4 mb-2">Software Engineer Intern</h4>
+                      <h4 className="h4 mb-2">Software Engineer</h4>
                       <p className="text-lg text-gray-400">GoEzz provides door-to-door ride transformation for children with accredited transportation providers</p><br />
                       <p className="text-lg"> At <span className='font-bold'>GoEzz</span>, I led the design and development of the primary website within a 5-member team, utilizing React and JavaScript for
 development. </p>
-<p>I also established a MySQL database system to ensure seamless data collection and management.</p>
+<p className="text-lg">I also established a MySQL database system to ensure seamless data collection and management.</p>
 
                       <br></br>
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
@@ -282,7 +282,7 @@ development. </p>
                     <h4 className="h4 mb-2">Data Engineer Intern</h4>
                       <p className="text-lg text-gray-400">dealpad.io is a Virtual Sales Room Platform that transforms sales leads into clients</p><br />
                       <p className="text-lg"> At <span className='font-bold'>dealpad</span>, I utilized advanced SQL queries to extract relevant data from the company database, aligning it with the defined customer success metrics.</p>
-                      <p>I also visualized and automated daily data updates using Microsoft Power BI, ensuring real-time insights and accommodating
+                      <p className="text-lg">I also visualized and automated daily data updates using Microsoft Power BI, ensuring real-time insights and accommodating
 new information entered into the database.</p>
                       <br></br>
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
@@ -326,7 +326,7 @@ new information entered into the database.</p>
                     <h4 className="h4 mb-2">Software Engineer Intern</h4>
                       
                       <p className="text-lg text-gray-400">M2 Information Systems provides secure patient-doctor messaging and clinical alerting technology to the healthcare industry</p><br />
-                      <p className="text-lg"> At <span className='font-bold'>M2</span>, I helped with the transition of .ASPX web pages to modern, responsive web interfaces, enhancing user experience and accessibility. I personally designed and developed a personalized Patient Relative webpage, tailored to individual hospital requirements. </p>
+                      <p className="text-lg"> At <span className='font-bold'>M2</span>, I helped with the transition of ASPX web pages to modern, responsive web interfaces, enhancing user experience and accessibility. I personally designed and developed a personalized Patient Relative webpage, tailored to individual hospital requirements. </p>
                       <br />
                       <ul className="flex flex-wrap text-sm text-gray-400 -mx-2 -my-2">
                         <li className="flex items-center mx-3 my-1" data-aos="fade-up" data-aos-delay="800" data-aos-anchor="[data-aos-id-cta]">
