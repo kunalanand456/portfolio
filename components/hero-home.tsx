@@ -36,7 +36,7 @@ export default function HeroHome() {
                         <br />
                         <br />
                        <p className="text-xl text-white-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-                            My name is <span className='font-bold text-2xl'>Kunal</span>, and I am currently a student at <span className='font-bold text-purple-100'>UW Seattle</span>, interested in the intersection of <span className='font-bold text-white'>Software Engineering</span> and  <span className='font-bold text-white'>Design</span>.
+                            My name is <span className='font-bold text-2xl'>Kunal</span>, and I am currently an engineer with skills in <span className='font-bold text-white'>Software Engineering</span>, <span className='font-bold text-white'>Data Engineering</span>,  and  <span className='font-bold text-white'>Design</span>.
                         </p>
                     </div>
                     <br />
